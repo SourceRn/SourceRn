@@ -1,3 +1,8 @@
-- 👋 Hi, I’m @SourceRn
-- 👀 I’m interested in programming algorythms, websites, and in the manegment of data science
-- 🌱 I’m currently learning javascript and mysql
+Hello! I'm a front-end web developer with experience in:
+  -  React JS
+  =  JavaScript (ES6)
+  =  CSS3 / SASS
+  =  HTML5
+  =  Git & GitHub
+  =  Figma
+I'm currently working independently. Feel free to reach out!
