@@ -13,3 +13,6 @@
   -  https://website-basico-beryl.vercel.app/
 
 I'm currently working independently. Feel free to reach out!
+
+In the future, I will focus on creating Full-Stack 
+projects that are increasingly scalable and reusable.
