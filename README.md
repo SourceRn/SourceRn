@@ -12,7 +12,7 @@
   -  https://website-basico-beryl.vercel.app/
 
 **Still Working On It**
-  -  https://eco-platos-osgpujxjp-rammses-nieves-projects.vercel.app/
+  -  https://eco-platos.vercel.app/
 
 I'm currently working independently. Feel free to reach out!
   -  https://rammsesitic.dev/
