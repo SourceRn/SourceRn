@@ -8,11 +8,12 @@
   -  UI/UX
 
 **Here are some of my projects:**
-  -  https://rammsesitic.dev/
   -  https://exani-ii.vercel.app/
   -  https://website-basico-beryl.vercel.app/
 
 I'm currently working independently. Feel free to reach out!
+  -  https://rammsesitic.dev/
+  -  https://www.facebook.com/profile.php?id=61573750087137
 
 In the future, I will focus on creating Full-Stack 
 projects that are increasingly scalable and reusable.
