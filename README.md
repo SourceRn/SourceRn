@@ -4,7 +4,7 @@
   -  CSS3
   -  HTML5
   -  Git & GitHub
-  -  SEO Básico.
+  -  Basic SEO
   -  UI/UX
 
 **Here are some of my projects:**
