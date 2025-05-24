@@ -17,6 +17,7 @@
 I'm currently working independently. Feel free to reach out!
   -  https://rammsesitic.dev/
   -  https://www.facebook.com/profile.php?id=61573750087137
+  -  https://www.linkedin.com/in/rammses-nieves/
 
 In the future, I will focus on creating Full-Stack 
 projects that are increasingly scalable and reusable.
